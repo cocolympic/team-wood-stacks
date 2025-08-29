@@ -1,1 +1,1 @@
-print('Pytori')t
+print('Pytori')
